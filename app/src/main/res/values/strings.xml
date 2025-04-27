@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LAB3_20206331</string>
+    <string-array name="categorias_array">
+        <item>Seleccione una categoría</item>
+        <item>Cultura General</item> <!-- ID 9 -->
+        <item>Libros</item>          <!-- ID 10 -->
+        <item>Películas</item>       <!-- ID 11 -->
+        <item>Música</item>          <!-- ID 12 -->
+        <item>Computación</item>     <!-- ID 18 -->
+        <item>Matemática</item>      <!-- ID 19 -->
+        <item>Deportes</item>        <!-- ID 21 -->
+        <item>Historia</item>        <!-- ID 23 -->
+    </string-array>
+
+    <string-array name="dificultades_array">
+        <item>Seleccione una dificultad</item>
+        <item>Fácil</item>
+        <item>Medio</item>
+        <item>Difícil</item>
+    </string-array>
+
+</resources>
